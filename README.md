@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello guys, I'm Juan Miguel Palacios 👋
+
+## I'm a student of Universidad del Valle and future System Engineer, learning lenguages like Python, C++ and Java to become a programmer
+
+### My habilities are:
+
+- ✌️ I'm a kind and tolerant person
+- 🫱 I like the teamwork
+- 💭 I'm constantly learning about new things about programming
 
 <!--
 **JuanPalacios10/JuanPalacios10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
